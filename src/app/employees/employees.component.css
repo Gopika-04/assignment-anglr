@@ -1,0 +1,16 @@
+input.ng-invalid.ng-touched{
+    border: 1px solid red;
+  }
+  .alert-dismissible {
+    width: 40%;
+    display: block;
+   
+  }
+  
+
+   th{
+    background-color:gray;
+  }
+  tr{
+    background-color:snow;
+  }
