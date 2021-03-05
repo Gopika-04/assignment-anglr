@@ -7,7 +7,7 @@ import { Component, OnInit} from '@angular/core';
   styleUrls: ['./child.component.css']
 })
 export class ChildComponent implements OnInit {
-
+  person:any;
   constructor() { }
   
  
